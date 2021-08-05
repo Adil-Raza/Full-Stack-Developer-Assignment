@@ -7,4 +7,13 @@
 ## Setup DB
 * Expecute query given inside `database/database.sql` to create the database and users table
 
+## setting up project
+* Run `npm install` to install all dependencies
 
+
+## Debugging app
+* Run `npm run dev`
+
+
+## Build app
+* Run `npm start`
